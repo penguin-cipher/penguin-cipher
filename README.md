@@ -61,11 +61,13 @@ Docker            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nagisa2&show_icons=true&locale=en&layout=compact" alt="nagisa2" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nagisa2&" alt="nagisa2" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nagisa2&show_icons=true&locale=en" alt="nagisa2" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nagisa2" alt="nagisa2" /></a> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nagisa2&" alt="nagisa2" /></p>
+
 
 
 
