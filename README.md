@@ -16,11 +16,9 @@
 - 📫 How to reach me **collinsodongo254@gmail.com**
 
 
+## ##
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="400" height="318" />
-
-
-## ##
 
 **Languages** 
 
@@ -33,9 +31,9 @@ c+               ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀
 
 ```
 
-<img align="left" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true"  width="400" height="318" />
-
 ## ##
+
+<img align="left" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true"  width="400" height="318" />
 
 **Frameworks** 
 
@@ -47,9 +45,9 @@ Vuejs            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 Framer motion    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀    88.94% 
 gsap             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 53.04%
 ```
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="400" height="318" />
 
 ## ##
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="400" height="318" />
 
 **Databases** 
 
