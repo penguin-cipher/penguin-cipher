@@ -73,7 +73,7 @@ Docker            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀�
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nagisa2&show_icons=true&locale=en&layout=compact&theme=dark" alt="nagisa2" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nagisa2" alt="nagisa2" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
