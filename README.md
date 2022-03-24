@@ -72,7 +72,8 @@ Docker            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀�
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nagisa2&theme=dark&show_icons=true&locale=en" alt="nagisa2" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nagisa2&show_icons=true&locale=en&layout=compact&theme=dark" alt="nagisa2" /></p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=nagisa2&theme=onedark)](https://github.com/nagisa2/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=nagisa2&theme=dark)](https://github.com/nagisa2/github-profile-trophy)
 
 
 
