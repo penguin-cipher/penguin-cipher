@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagisa2&label=Profile%20views&color=0e75b6&style=flat" alt="nagisa2" /> </p>
 
 
-- 🔭 I’m currently working on **kisen bank and cupcake**
+- 🔭 I’m currently working on **kisen bank and portfolio**
 
 - 🌱 I’m currently learning **blockchain**
 
