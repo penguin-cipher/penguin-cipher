@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **collinsodongo254@gmail.com**
 
+-  📱 Call on **0717300666** or Message me on **0702777148** 
+
 
 ## ##
 
