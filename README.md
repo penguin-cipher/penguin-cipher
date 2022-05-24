@@ -20,7 +20,7 @@
 
 ## ##
 
-<img align="right" alt="GIF" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1621705542437/4shUyEk2t.gif" width="50%" height="50%" />
+<img align="right" alt="GIF" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1621705542437/4shUyEk2t.gif" width="100%" height="100%" />
 
 **Languages** 
 
