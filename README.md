@@ -20,7 +20,7 @@
 
 ## ##
 
-<img align="left" alt="GIF" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1621705542437/4shUyEk2t.gif"  width="400" height="318" />
+<img align="right" alt="GIF" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1621705542437/4shUyEk2t.gif" width="50%" height="50%" />
 
 **Languages** 
 
@@ -35,8 +35,6 @@ c+               ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀
 
 ## ##
 
-<img align="left" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true"  width="400" height="318" />
-
 **Frameworks** 
 
 ```text
@@ -49,7 +47,6 @@ gsap             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 
 ## ##
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="400" height="318" />
 
 **Databases** 
 
