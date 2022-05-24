@@ -20,7 +20,7 @@
 
 ## ##
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="400" height="318" />
+<img align="right" alt="GIF" src="https://img.etimg.com/thumb/msid-84146056,width-400,height-318imgsize-638053,resizemode-8,quality-100/20210706_developer-economy_01.jpg" />
 
 **Languages** 
 
