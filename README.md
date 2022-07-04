@@ -13,9 +13,9 @@
 
 -  ⚡ Fun fact **Iam a coffee addict**
 
-- 📫 How to reach me **collinsodongo254@gmail.com**
+- 📫 How to reach me **penguincipher@gmail.com**
 
--  📱 Call on **0717300666** or Message me on **0702777148** 
+-  📱 Call on **** or Message me on **** 
 
 
 ## ##
